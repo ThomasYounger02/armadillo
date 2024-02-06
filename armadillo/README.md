@@ -1,2 +1,3 @@
-# platypus
-packages about statistics
+# armodillo
+A package for business analysis. Frequently used tools.
+
