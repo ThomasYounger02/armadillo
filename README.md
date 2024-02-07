@@ -1,4 +1,4 @@
-# armodilo
+# armodillo
 **[ˌɑːrməˈdɪloʊ]**   
 package about statistics/data analysis/machine learning.   
 <font color="#dd0000">**Don't repeat yourself!**</font><br /> 
